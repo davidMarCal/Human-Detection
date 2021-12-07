@@ -1,3 +1,0 @@
-https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
-https://github.com/yash42828/YOLO-object-detection-with-OpenCV
-Street Cams: http://www.insecam.org/en/view/964048/
